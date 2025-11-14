@@ -1,0 +1,24 @@
+{
+  "name": "armangrigoryan--3",
+  "version": "1.0.0",
+  "description": "GitHub Repo",
+  "homepage": "https://github.com/Arm7711/my-first-repo#readme",
+  "bugs": {
+    "url": "https://github.com/Arm7711/my-first-repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arm7711/my-first-repo.git"
+  },
+  "license": "ISC",
+  "author": "Arman  Grigoryan <armmooooooo@gmail.com>",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
